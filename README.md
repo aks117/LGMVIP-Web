@@ -4,8 +4,8 @@ Group of projects completed by me as a part of Intern at LGM
 <br>
 
 ### Author Details:
-<p>Name     : MAINAK CHAUDHURI</p>
-<p>Position : Web Developer Intern, Let's Grow More</p>
+<p>Name     : Akshunn Sharma</p>
+<p>Position : LGM - Web Developer Intern</p>
 <p>Badges   : LGMVIP</p>
 --------------------------------------------------------------
 
